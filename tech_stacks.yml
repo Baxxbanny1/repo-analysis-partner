@@ -1,29 +1,30 @@
-# This file defines the tech stacks supported by repo analysis.
-# To request support for any new tech stack, please raise an issue on this repo.
+# Этот файл определяет технические стеки, поддерживаемые анализом репо.
+# Чтобы запросить поддержку для любого нового технологического стека, пожалуйста, поднимите вопрос об этом репо.
+
 ---
-supported_tech_stacks:
+Поддерживаемые технологии_стеки:
 - AspNetCore
-- Maven
+- Мавен
 - npm
-- Composer
-- React
-- Yarn
-- Angular
-- Gulp
-- Grunt
-- Webpack
-- Django
-- Bottle
-- Flask
+- Композиция - участник «Конец»
+- Реаг-журнал
+- Пр-сая дама-спасс
+- У Уве энтузиастная инструкция
+- Житринененеобеспеченный пенсионный комплекс
+- Грюн юнюн
+- Веб-пакет-версия
+- Джан-го-го-го
+- Бутылка стока
+- — особенность — и —
 - DotNetCoreWorker
 - DotNetConsole
-- Azure Functions
-- Rails
-- Gradle
-- Spring
+- Функционирование Azure
+- Ре Рельс
+- Г-н льют
+- Вес замечателен-
 - JSF
-- Pip
-- Ant
+- Пипс
+- Муравей
 - Xcode
 - Express
 - Sails
